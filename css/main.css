@@ -1,0 +1,68 @@
+
+/* we overwrite the default style of bootstrap classes just for demo purpose */
+/* otherwise, the class might not be visible  */
+.jumbotron {
+    text-align: center;
+    background: none;
+}
+
+.section-light {
+    background-color: #eceeef;
+    padding: 2rem;
+}
+
+.section-dark {
+    background-color: #cccccc;
+    padding: 2rem;
+}
+
+button.cool-btn {
+    background-color: red;
+    color: #ffffff;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
+
+h5.modal-title {
+    margin: auto;
+}
+
+img.img-modal {
+    display: block;
+    margin: auto;
+}
+
+.modal-form-wrapper {
+    padding: 2rem;
+}
+
+img.img-center {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+button.btn-center {
+    display: block;
+    margin: auto;
+}
+
+img.footer-img {
+    padding: 20px;
+    display: block;
+    margin: auto;
+}
+
+.fa-facebook-square {
+    color: #3b5998;
+}
+
+.fa-google-plus-square {
+    color: #c32f10;
+}
+
+.fa-instagram {
+    color: #ffffff;
+}
